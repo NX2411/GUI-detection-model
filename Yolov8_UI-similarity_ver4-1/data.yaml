@@ -1,0 +1,30 @@
+names:
+- BackgroundImage
+- Bottom_Navigation
+- Card
+- CheckedTextView
+- Drawer
+- EditText
+- Icon
+- Image
+- ImageButton
+- List
+- Modal
+- Multi_Tab
+- PageIndicator
+- Switch
+- Text
+- TextButton
+- TextImageButton
+- Toolbar
+- UpperTaskBar
+nc: 19
+roboflow:
+  license: CC BY 4.0
+  project: yolov8_ui-similarity_ver4
+  url: https://universe.roboflow.com/iae/yolov8_ui-similarity_ver4/dataset/1
+  version: 1
+  workspace: iae
+test: D:/Yolov8/ultralytics/Yolov8_UI-similarity_ver4-1/test/images
+train: D:/Yolov8/ultralytics/Yolov8_UI-similarity_ver4-1/train/images
+val: D:/Yolov8/ultralytics/Yolov8_UI-similarity_ver4-1/valid/images
